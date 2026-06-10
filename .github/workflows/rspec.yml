@@ -1,4 +1,4 @@
-name: Run all page tests
+name: Accessibility Tests
 
 # Run when a PR is opened, any branch is pushed
 # Also allow manually triggering workflows, and running if a release is created.
