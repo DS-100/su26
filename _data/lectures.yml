@@ -71,10 +71,10 @@ lectures:
     readings:
       - title: Note 13
         link: https://ds100.org/course-notes/gradient-descent/
-  - slug: "14"
-    readings:
-      - title: Note 14
-        link: https://ds100.org/course-notes/feature-engineering/
+  # - slug: "14"
+  #   readings:
+  #     - title: Note 14
+  #       link: https://ds100.org/course-notes/feature-engineering/
   - slug: "15"
     readings:
       - title: Note 15
@@ -83,6 +83,7 @@ lectures:
     readings:
       - title: Note 16
         link: https://ds100.org/course-notes/case-study-hce/
+  - skip: true # midterm
   - slug: "17"
     readings:
       - title: Note 17
@@ -91,10 +92,6 @@ lectures:
     readings:
       - title: Note 18
         link: https://ds100.org/course-notes/probability-1/ 
-  - title: "Spring Break"
-    nonumber: true
-  - title: "Spring Break"
-    nonumber: true
   - slug: "19"
     readings:
       - title: Note 19
@@ -128,12 +125,6 @@ lectures:
       - title: Note 26
         link: https://ds100.org/course-notes/pca/
   - slug: "27"
-  - skip: true # paper midterm 3
-  - skip: true # final review
-  - title: "RRR Week"
-    nonumber: true
-  - title: "Finals Week"
-    nonumber: true
-  - skip: true # finals week
-  # - title: "Finals Week"
-  #   nonumber: true
+  - slug: "28"
+  - title: "Review"
+  - title: "Review"

@@ -13,9 +13,7 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  - skip: true # no discussion week 1
-  # - title: "Prerequisites"
-  #   link: https://drive.google.com/file/d/1WzM0WKIuCoVcJMBJqetGkGQ4eNehialZ/view?usp=sharing
+  - skip: true
   - slug: "01"
   - slug: "02"
   - slug: "03"
@@ -24,14 +22,8 @@ discussions:
   - slug: "06"
   - slug: "07"
   - slug: "08"
-  - title: "Spring Break"
-    nonumber: true
   - slug: "09"
   - slug: "10"
   - slug: "11"
   - slug: "12"
   - slug: "13"
-  - title: "RRR Week"
-    nonumber: true
-  - title: Finals Week
-    nonumber: true
