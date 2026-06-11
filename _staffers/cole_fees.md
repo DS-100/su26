@@ -1,6 +1,6 @@
 ---
 name: Cole Fees
-role: Tutor
+role: TA
 email: clinton.c.fees@berkeley.edu
 photo: Cole_Fees.png
 pronouns: He/Him/His

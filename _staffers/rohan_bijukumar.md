@@ -1,6 +1,6 @@
 ---
 name: Rohan Bijukumar
-role: Head Teaching Assistant
+role: TA
 email: rohanbijukumar@berkeley.edu
 photo: Rohan_Bijukumar.jpg
 pronouns: He/Him/His
