@@ -57,9 +57,6 @@ nav_external_links:
     url: https://ds100.org/debugging-guide/
     hide_icon: true
     aria_label: "Data 100 Debugging Guide"
-  - title: Course FAQs
-    url: https://ds100.org/faqs/sp26/
-    hide_icon: true
 
 aux_links:
   # Additional Accommodations Form: 
@@ -80,7 +77,6 @@ aux_links:
 berkeley_theme_options:
   show_logo_in_sidebar: true
 
-# TODO(template): Copy class information to the template.
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
