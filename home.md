@@ -40,10 +40,9 @@ seo:
 <!-- {% assign announcement = site.announcements | where: 'week', site.current_week | first %}
 {{ announcement }} -->
 
-
 <!-- COMMENT THE FOLLOWING OUT WHEN WEBSITE IS READY TO GO!!! -->
-<div class="alert" style="background-color: #ffd035; border: 1px solid #a17900; padding: 12px 16px; border-radius: 4px; margin-bottom: 20px;">
-  <strong>Website Under Construction — This site is still being built. Expect that the contents will change frequently and some features may not work properly.</strong>
+<div class="alert" style="background-color: #ffffff; border: 1px solid #fd0000; padding: 12px 16px; border-radius: 4px; margin-bottom: 20px;">
+  <strong>⚠️ This website is still under construction!</strong> Content is subject to change and some features of this page may not function properly.
 </div>
 
 <h2 class="d-flex align-items-center" id="schedule">

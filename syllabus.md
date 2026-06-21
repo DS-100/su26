@@ -49,7 +49,7 @@ Below is a high-level “typical week in the course” for {{site.semester}}.
 
 | Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | 
-|  | <span style="color: var(--syllabus-lecture)">Live Lecture</span> |  | <span style="color: var(--syllabus-lecture)">Live Lecture</span> |  |
+| <span style="color: var(--syllabus-lecture)">Live Lecture</span> | <span style="color: var(--syllabus-lecture)">Live Lecture</span> | <span style="color: var(--syllabus-lecture)">Live Lecture</span> | <span style="color: var(--syllabus-lecture)">Live Lecture</span> |  |
 |  | | <span style="color: var(--syllabus-discussion)">Discussion Section</span> | <span style="color: var(--syllabus-discussion)">Discussion Section</span> |  |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours |
 |  |  |  | <span style="color: var(--syllabus-deadline)">Homework N released</span> | <strong style="color: var(--syllabus-deadline)">Homework N-1 due</strong> |
@@ -108,6 +108,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - The primary form of support students will have for homeworks and projects are **office hours** and **Ed**.
 - Homeworks and projects must be completed individually, without the usage of any unauthorized resources (e.g., CourseHero). While large language models (LLMs) are permitted for use on homeworks and projects, students are only allowed to use LLMs in the specific manner outlined in the [Collaboration Policy](#collaboration-policy-and-academic-honesty). Inappropriate use of LLMs is considered cheating, and will be addressed as such.
 
+<!--
 
 ### Lab
 
@@ -119,6 +120,8 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - All labs are intended to take about an hour.
 - Lab submissions are mandatory (unless you are a Data 200 student).
 - Your two lowest lab scores will be dropped.
+
+-->
 
 
 ### Exams
@@ -152,10 +155,13 @@ The final is scheduled for **Thursday 5/14 11:30am-2:30pm**. The [official final
 - **Data 100 does not allow lecture time conflicts or final exam conflicts.** Starting January 16th, Data 100 students are NOT permitted to enroll in another course with a final exam scheduled for Thursday 5/14 11:30am-2:30pm. 
 - **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Thursday 5/14 11:30am-2:30pm prior to January 16th, you will be able to take the final exam on Friday 5/15 7-10pm, so long as the course lectures do not overlap with Data 100 lectures (3:30-5pm Tuesday+Thursday). 
 
+<!--
 
 ### Graduate Final Project
 
 All students enrolled in the graduate version of the course (Data 200 or Data 200S) will be graded according to the Graduate grading scheme, which includes a team-based **Graduate Final Project** distributed in the second half of the semester. More details to come.
+
+-->
 
 
 ## Office Hours and Communication
@@ -203,7 +209,7 @@ Course Communication:
 
 It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S. *Note that Data 200 is equivalent to Data C200, CS C200A, and Stat C200C, but not Data 200S.*
 
-While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"}. See the next sections for more details.
+While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://forms.gle/mTrVEXVgQvowzNVh7){:target="_blank"}. See the next sections for more details.
 
 
 ### On-Time Submission
@@ -225,9 +231,9 @@ Slip days are automatically applied based on the additional hours you take to su
 
 We recognize that our students come from varied backgrounds and have widely-varying experiences. If you require any additional accommodations any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available for us to help you.
 
-The **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). 
+The **[Additional Accommodations Form](https://forms.gle/mTrVEXVgQvowzNVh7){:target="_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). 
 
-We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"} is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
+We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The [Additional Accommodations Form](https://forms.gle/mTrVEXVgQvowzNVh7){:target="_blank"} is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 
 Note that you **cannot** use the Additional Accommodations Form if you encounter a logistical oversight, such as DataHub/autograder tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on the grading portal. It is the students’ responsibility to identify and resolve these issues well in advance of the on-time deadline. 
 We will not grant accommodations for these cases; instead, please use slip days to cushion these submission errors.
@@ -239,14 +245,14 @@ Finally, simply submitting a request does not guarantee you will receive an exte
 
 {: .important }
 
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved extension accommodations will have an automatic 2-day extension on labs, homeworks, and projects. Please note that any extension, plus the slip days combined, cannot exceed **7 days**. Beyond 7 days, you are required to meet with a TA. DSP students can use the **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"}** to request extension accommodations beyond the provided 2-days.
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved extension accommodations will have an automatic 2-day extension on labs, homeworks, and projects. Please note that any extension, plus the slip days combined, cannot exceed **7 days**. Beyond 7 days, you are required to meet with a TA. DSP students can use the **[Additional Accommodations Form](https://forms.gle/mTrVEXVgQvowzNVh7){:target="_blank"}** to request extension accommodations beyond the provided 2-days.
 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. **Even if your work is incomplete, please submit before the deadline so you can receive work for the work you did complete.**
 
 
 ### Regrade Requests
 
-Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through the grading portal, and autograder regrades via a [Google Form](https://forms.gle/br8ShTbU7HWw1ooQ9){:target="_blank"}. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
+Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through the grading portal, and autograder regrades via our [Autograder Regrade Request Form](https://forms.gle/X8kWZVgiyCC7MjN78){:target="_blank"}. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
 
 **Always check that the autograder executes correctly!** The grading portal will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed _as soon as possible_.
 

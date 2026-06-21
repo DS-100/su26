@@ -101,11 +101,16 @@
 
 
 <div class="syllabus-container">
+{%- assign max_week = site.current_week | default: nil -%}
+{%- if max_week -%}
+  {%- assign max_week = max_week | plus: 0 -%}
+{%- endif -%}
 {%- for week in sorted_dates -%}
   {%- assign week_number = forloop.index -%}
   {%- if site.data.syllabus.starting_week_number == '0' -%}
     {%- assign week_number = forloop.index0 -%}
   {%- endif -%}
+  {%- unless max_week and week_number > max_week -%}
 
   <h2 id="week-{{ week_number }}" class="week-label">Week {{ week_number }}</h2>
   
@@ -711,5 +716,5 @@
       {%- endfor -%}
     </tbody>
   </table>
+  {%- endunless -%}
 {%- endfor -%}
-</div>
