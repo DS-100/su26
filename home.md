@@ -42,8 +42,8 @@ seo:
 
 
 <!-- COMMENT THE FOLLOWING OUT WHEN WEBSITE IS READY TO GO!!! -->
-<div class="alert" style="background-color: #fff3cd; border: 1px solid #ffc107; padding: 12px 16px; border-radius: 4px; margin-bottom: 20px;">
-  <strong>⚠️ Website Under Construction</strong> — This site is still being built. Expect that the contents will change frequently and some features may not work properly.
+<div class="alert" style="background-color: #ffd035; border: 1px solid #a17900; padding: 12px 16px; border-radius: 4px; margin-bottom: 20px;">
+  <strong>Website Under Construction — This site is still being built. Expect that the contents will change frequently and some features may not work properly.</strong>
 </div>
 
 <h2 class="d-flex align-items-center" id="schedule">
