@@ -5,4 +5,4 @@ email: clinton.c.fees@berkeley.edu
 photo: Cole_Fees.png
 pronouns: He/Him/His
 ---
-Hi everyone! I’m a third year from LA studying Data Science and Cognitive Science. Some of my favorite things are coffee, music, and Tetris. I am super excited for this semester!
+Hi everyone! I’m a fourth-year student from LA, studying Data Science and Cognitive Science. I love listening to music, reading, drinking coffee, and playing chess on Telegraph. This is my 3rd time on course-staff! Welcome to Data100!
