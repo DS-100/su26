@@ -89,7 +89,7 @@ If you are enrolled in Data 100, you have 2 options:
 - **Graded Discussion:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
     - Online sections, if offered, are reserved for students enrolled into the online version of Data 100, or students with specific needs (e.g., DSP, etc.); these can be requested through the [Pre-Semester Survey](https://forms.gle/zJx7j5jxSFUWJ8ZH9){:target="_blank"}.
     - All students are automatically granted 3 discussion attendance drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events. In other words, you should not plan to use them.
-- **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category. If you choose this option you will not be assigned to a discussion section.
+- **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the final exam category. If you choose this option you will not be assigned to a discussion section.
 
 Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
 
