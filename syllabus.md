@@ -185,8 +185,8 @@ Course Communication:
 
 ### Grading Scheme
 
-| Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details |
-| --- | --- | --- | --- | --- | ---  |
+| Category | Data 100 | Data 100 (no discussion)| Details |
+| --- | --- | --- | --- |
 | Assignments | 10% | 10% | No drop |
 | Discussions | 5% | - | Drop 3 lowest scores |
 | Lecture Participation | 5% | 5% | Drop 3 lowest scores |
