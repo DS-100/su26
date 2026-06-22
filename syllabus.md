@@ -68,7 +68,7 @@ There are 4 live **lectures** held on Mondays, Tuesdays, Wednesdays, and Thursda
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
 
 - Lecture participation is graded using poll responses on a 0/1 basis.
-  - Synchronous Participation: complete **at least one** participation poll question during the live lecture timeslot (3:30pm-5:00pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
+  - Synchronous Participation: complete **at least one** participation poll question during the live lecture timeslot (11:00am - 12:30pm, Monday - Thursday). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
   - Asynchronous Participation: complete **all** participation poll questions from the link provided on the course website within one week of the corresponding lecture.
   - In both cases, participation is graded on completion, not correctness.
 - See the [Policies](#policies) section for lecture participation drops.
