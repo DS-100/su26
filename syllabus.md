@@ -126,7 +126,7 @@ There are four exams in this course:
 > - **Computer-Based Midterm 1** ON **Wed, July 8** OR **Thu, July 9** (You will sign up for a 1-hour slot)
 > - **Computer-Based Midterm 2** ON **Wed, July 29** OR **Thu, July 30** (You will sign up for a 1-hour slot)
 > - **Computer-Based Midterm 2** ON **Wed, August 5** OR **Thu, August 6** (You will sign up for a 1-hour slot)
-> - **Two-Part Paper-Based Final** ON **Wed, August 13** AND **Wed, August 14** STARTING AT **11:00am**
+> - **Two-Part Paper-Based Final** ON **Wed, August 13** AND **Thu, August 14** STARTING AT **11:00am**
 
 #### Midterm Schedule
 
