@@ -13,6 +13,9 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
+  - title: "Prequisite Math and Coding"
+    label-number: 1
+    link: #
   # - skip: true # hw 1 on syllabus.yml to shift to W release
   # - title: "Food Safety I"
   #   label-number: 2A
