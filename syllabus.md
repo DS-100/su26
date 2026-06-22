@@ -187,15 +187,14 @@ Course Communication:
 
 | Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details |
 | --- | --- | --- | --- | --- | ---  |
-| Assignments | 10% | 10% | 5% | 10% | No drop |
-| Discussions | 5% | - | - | - | Drop 3 lowest scores |
-| Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores |
-| Prereq Quiz | 5% | 5% |  5% |  0% | |
-| Midterm 1 | 15% | 16.25% | 15% | - | |
-| Midterm 2 | 15% | 16.25% | 15% | - | |
-| Midterm 3 | 15% | 16.25% | 15% | - | |
-| Final | 30% | 31.25% | 30% | - | |
-| Graduate Final Project| - | - | 15% | 55% | |
+| Assignments | 10% | 10% | No drop |
+| Discussions | 5% | - | Drop 3 lowest scores |
+| Lecture Participation | 5% | 5% | Drop 3 lowest scores |
+| Prereq Quiz | 5% | 5% | |
+| Midterm 1 | 15% | 15% | |
+| Midterm 2 | 15% | 15% | |
+| Midterm 3 | 15% | 15% | |
+| Final | 30% | 35% | |
 
 **To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterms and final.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course. 
 
