@@ -19,11 +19,26 @@ extra_days_col2:
 # The dates used in extra_links_col3 below must already be included on the calendar 
 # Use this to provide extra links in the third (reading) column
 extra_links_col3:
-#   - date: 2026-01-21
-#     title: "Prerequisite Coding"
-#     label: lab-released
-#     label-number: 1
-#     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab01%2Flab01.ipynb
+  - date: 2026-06-22
+    title: "Prerequisite Coding"
+    label: homework-released
+    label-number: 1
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw01%2Fhw01.ipynb
+  - date: 2026-06-22
+    title: "Prerequisite Math"
+    label: homework-released
+    label-number: 1
+    link: https://drive.google.com/file/d/1nA3nl1FuNkTeTm6mcXMmUpBBxYJCNQtt/view?usp=sharing
+  - date: 2026-06-26
+    title: "Prerequisite Coding"
+    label: homework-due
+    label-number: 1
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw01%2Fhw01.ipynb
+  - date: 2026-06-26
+    title: "Prerequisite Math"
+    label: homework-due
+    label-number: 1
+    link: https://drive.google.com/file/d/1nA3nl1FuNkTeTm6mcXMmUpBBxYJCNQtt/view?usp=sharing
 
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.

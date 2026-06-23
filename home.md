@@ -41,7 +41,7 @@ seo:
 {{ announcement }} -->
 
 <!-- COMMENT THE FOLLOWING OUT WHEN WEBSITE IS READY TO GO!!! -->
-<div class="alert" style="background-color: #ffffff; border: 1px solid #fd0000; padding: 12px 16px; border-radius: 4px; margin-bottom: 20px;">
+<div class="alert" style="background-color: #ffffff00; border: 1px solid #fd0000; padding: 12px 16px; border-radius: 4px; margin-bottom: 20px;">
   <strong>⚠️ This website is still under construction!</strong> Content is subject to change and some features of this page may not function properly.
 </div>
 

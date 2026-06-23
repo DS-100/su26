@@ -1,9 +1,10 @@
 # treat this YAML similar to _data/homework.yml
 # link: optional; hyperlinks the title to the assignment URL (same as released)
 homework-due:
-  - title: "Prerequisite Math and Coding"
-    label-number: 1
-    link: #
+  - skip: true # hw1 on syllabus.yml
+  # - title: "Prerequisite Math and Coding"
+  #   label-number: 1
+  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw01%2Fhw01.ipynb
   - title: "Food Safety I"
     label-number: 2A
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02A%2Fhw02A.ipynb

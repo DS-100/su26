@@ -15,10 +15,11 @@
 labs:
   - title: "Prerequisite Coding"
     label-number: 1
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw01%2Fhw01.ipynb
   - skip: true
   - title: "Pandas"
     label-number: 2A
-    link: # 
+    link: 
   - title: "Data Cleaning and EDA"
     label-number: 2B
   - title: "Regex and EDA"
