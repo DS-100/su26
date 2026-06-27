@@ -59,10 +59,10 @@ nav_external_links:
     aria_label: "Data 100 Debugging Guide"
 
 aux_links:
-  # Additional Accommodations Form: 
-  #   - 'https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header'
-  # Autograded Assignment Regrade Requests Form: 
-  #   - 'https://forms.gle/br8ShTbU7HWw1ooQ9'
+  Additional Accommodations Form: 
+    - 'https://forms.gle/U8Mb84rkS9bVTeZ5A'
+  Autograded Assignment Regrade Requests Form: 
+    - 'https://forms.gle/X8kWZVgiyCC7MjN78'
   # DataHub: 
   #   - 'http://data100.datahub.berkeley.edu/'
   # Debugging Guide:
