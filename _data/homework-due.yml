@@ -5,6 +5,7 @@ homework-due:
   # - title: "Prerequisite Math and Coding"
   #   label-number: 1
   #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw01%2Fhw01.ipynb
+  - skip: true # UNDO THIS WHEN HW 2 IS READY
   - title: "Food Safety I"
     label-number: 2A
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02A%2Fhw02A.ipynb

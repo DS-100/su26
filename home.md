@@ -18,7 +18,7 @@ seo:
 [PrairieTest](https://us.prairietest.com/){:target="_blank" .btn .btn-sections .mr-1}
 [EdStem](https://edstem.org/us/courses/99874){:target="_blank" .btn .btn-ed .mr-1}
 [Office Hours](https://oh.ds100.org/){:target="_blank" .btn .btn-officehours .mr-1}
-<!-- [Discussions & Tutoring](https://sections.ds100.org/){:target="_blank" .btn .btn-sections .mr-1} -->
+[Tutoring](https://sections.ds100.org/tutoring/){:target="_blank" .btn .btn-sections .mr-1}
 
 [Askademia Livestream](https://www.askademia.org/data100/su26/livestream){:target="_blank" .btn .btn-lectures .mr-1}
 [Zoom Livestream](https://berkeley.zoom.us/j/94284246960){:target="_blank" .btn .btn-traditional .mr-1}
