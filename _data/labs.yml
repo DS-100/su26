@@ -23,6 +23,8 @@ labs:
   - title: "[OPTIONAL] Data Cleaning and EDA"
     label-number: 2B
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Flab%2Flab02b%2Flab02B.ipynb
+  - skip: true
+  - skip: true
   - title: "Regex and EDA"
     label-number: 3
   - title: "Visualization, Transformations, and KDEs"
