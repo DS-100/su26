@@ -6,18 +6,18 @@ homework-due:
   #   label-number: 1
   #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw01%2Fhw01.ipynb
   - skip: true
-  - skip: true
-  - title: "Exploratory Data Analysis"
-    label-number: 2
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw02%2Fhw02.ipynb
-  - skip: true
-  - skip: true
-  - title: "Food Safety II"
-    label-number: 2B
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02B%2Fhw02B.ipynb
+  # - skip: true
+  # - title: "Exploratory Data Analysis"
+  #   label-number: 2
+  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw02%2Fhw02.ipynb
+  # - skip: true
+  # - skip: true
+  # - title: "Food Safety II"
+  #   label-number: 2B
+  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02B%2Fhw02B.ipynb
   - title: "NYT Articles"
     label-number: 3
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw03%2Fhw03.ipynb
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw03%2Fhw03.ipynb
   - skip: true # "Homework 4: Visualization"
   - title: "Modeling and OLS"
     label-number: 5
