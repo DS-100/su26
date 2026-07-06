@@ -10,10 +10,14 @@ end_date: 2026-08-14
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
-  # - date: 2026-03-06
-  #   title: "Midterm 1 Review"
-  #   label: exam-review
-  #   link: https://edstem.org/us/courses/93833/discussion/7769002
+  - date: 2026-07-08
+    title: "Midterm 1 [Day 1]"
+    label: exam
+    # link: #
+  - date: 2026-07-09
+    title: "Midterm 1 [Day 2]"
+    label: exam
+    # link: #
 
 
 # The dates used in extra_links_col3 below must already be included on the calendar 
