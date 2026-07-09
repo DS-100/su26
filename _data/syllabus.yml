@@ -48,6 +48,16 @@ extra_links_col3:
     label: homework-due
     label-number: 2
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw02%2Fhw02.ipynb
+  - date: 2026-07-08
+    title: "Visualization"
+    label: homework-released
+    label-number: 4
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw04%2Fhw04.ipynb
+  - date: 2026-07-14
+    title: "Visualization"
+    label: homework-due
+    label-number: 4
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw04%2Fhw04.ipynb
 
 
 

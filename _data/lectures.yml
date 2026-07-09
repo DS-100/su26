@@ -66,64 +66,64 @@ lectures:
       - title: Note 11
         link: https://ds100.org/course-notes/ols/
   - skip: true
-  - slug: "13"
-    readings:
-      - title: Note 13
-        link: https://ds100.org/course-notes/gradient-descent/
-  # - slug: "14"
+  # - slug: "13"
   #   readings:
-  #     - title: Note 14
-  #       link: https://ds100.org/course-notes/feature-engineering/
-  - slug: "15"
-    readings:
-      - title: Note 15
-        link: https://ds100.org/course-notes/cv-reg/
-  - slug: "16"
-    readings:
-      - title: Note 16
-        link: https://ds100.org/course-notes/case-study-hce/
-  - skip: true # midterm
-  - slug: "17"
-    readings:
-      - title: Note 17
-        link: https://ds100.org/course-notes/cv-reg/
-  - slug: "18"
-    readings:
-      - title: Note 18
-        link: https://ds100.org/course-notes/probability-1/ 
-  - slug: "19"
-    readings:
-      - title: Note 19
-        link: https://ds100.org/course-notes/probability-2/
-  - slug: "20"
-    readings:
-      - title: Note 20
-        link: https://ds100.org/course-notes/inference-causality/
-  - slug: "21"
-    readings:
-      - title: Note 21
-        link: https://ds100.org/course-notes/sql-i/
-  - slug: "22"
-    readings:
-      - title: Note 22
-        link: https://ds100.org/course-notes/sql-ii/
-  - slug: "23"
-    readings:
-      - title: Note 23
-        link: https://ds100.org/course-notes/logistic-reg-1/
-  - slug: "24"
-    readings:
-      - title: Note 24
-        link: https://ds100.org/course-notes/logistic-reg-2/
-  - slug: "25"
-    readings:
-      - title: Note 25
-        link: https://ds100.org/course-notes/clustering/
-  - slug: "26"
-    readings:
-      - title: Note 26
-        link: https://ds100.org/course-notes/pca/
-  - slug: "27"
-  - slug: "28"
-  - title: "Review"
-  - title: "Review"
+  #     - title: Note 13
+  #       link: https://ds100.org/course-notes/gradient-descent/
+  # # - slug: "14"
+  # #   readings:
+  # #     - title: Note 14
+  # #       link: https://ds100.org/course-notes/feature-engineering/
+  # - slug: "15"
+  #   readings:
+  #     - title: Note 15
+  #       link: https://ds100.org/course-notes/cv-reg/
+  # - slug: "16"
+  #   readings:
+  #     - title: Note 16
+  #       link: https://ds100.org/course-notes/case-study-hce/
+  # # - skip: true # midterm
+  # - slug: "17"
+  #   readings:
+  #     - title: Note 17
+  #       link: https://ds100.org/course-notes/cv-reg/
+  # - slug: "18"
+  #   readings:
+  #     - title: Note 18
+  #       link: https://ds100.org/course-notes/probability-1/ 
+  # - slug: "19"
+  #   readings:
+  #     - title: Note 19
+  #       link: https://ds100.org/course-notes/probability-2/
+  # - slug: "20"
+  #   readings:
+  #     - title: Note 20
+  #       link: https://ds100.org/course-notes/inference-causality/
+  # - slug: "21"
+  #   readings:
+  #     - title: Note 21
+  #       link: https://ds100.org/course-notes/sql-i/
+  # - slug: "22"
+  #   readings:
+  #     - title: Note 22
+  #       link: https://ds100.org/course-notes/sql-ii/
+  # - slug: "23"
+  #   readings:
+  #     - title: Note 23
+  #       link: https://ds100.org/course-notes/logistic-reg-1/
+  # - slug: "24"
+  #   readings:
+  #     - title: Note 24
+  #       link: https://ds100.org/course-notes/logistic-reg-2/
+  # - slug: "25"
+  #   readings:
+  #     - title: Note 25
+  #       link: https://ds100.org/course-notes/clustering/
+  # - slug: "26"
+  #   readings:
+  #     - title: Note 26
+  #       link: https://ds100.org/course-notes/pca/
+  # - slug: "27"
+  # - slug: "28"
+  # - title: "Review"
+  # - title: "Review"
