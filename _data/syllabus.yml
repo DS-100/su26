@@ -58,7 +58,11 @@ extra_links_col3:
     label: homework-due
     label-number: 4
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw04%2Fhw04.ipynb
-
+  - date: 2026-07-10
+    title: "Modeling"
+    label: homework-released
+    label-number: 5
+    link: https://drive.google.com/file/d/1TQdBRIGUwkOJB6BWepBP8KkO0tbdHZ2o/view?usp=sharing
 
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
