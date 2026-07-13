@@ -65,11 +65,11 @@ lectures:
     readings:
       - title: Note 11
         link: https://ds100.org/course-notes/ols/
-  - skip: true
   - slug: "12"
     readings:
       - title: Note 12
         link: https://ds100.org/course-notes/ols/
+  - skip: true
   # # - slug: "14"
   # #   readings:
   # #     - title: Note 14
