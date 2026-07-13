@@ -69,15 +69,15 @@ lectures:
     readings:
       - title: Note 12
         link: https://ds100.org/course-notes/gradient-descent/ 
+  - slug: "13"
+    readings:
+      - title: Note 13
+        link: https://ds100.org/course-notes/feature-engineering/
+  - slug: "14"
+    readings:
+      - title: Note 14
+        link: https://ds100.org/course-notes/cv-reg/
   - skip: true
-  # # - slug: "14"
-  # #   readings:
-  # #     - title: Note 14
-  # #       link: https://ds100.org/course-notes/feature-engineering/
-  # - slug: "15"
-  #   readings:
-  #     - title: Note 15
-  #       link: https://ds100.org/course-notes/cv-reg/
   # - slug: "16"
   #   readings:
   #     - title: Note 16
