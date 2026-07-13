@@ -78,10 +78,10 @@ lectures:
     readings:
       - title: Note 14
         link: https://ds100.org/course-notes/cv-reg/
-  # - slug: "16"
-  #   readings:
-  #     - title: Note 16
-  #       link: https://ds100.org/course-notes/case-study-hce/
+  - slug: "15"
+    readings:
+      - title: Note 15
+        link: https://ds100.org/course-notes/case-study-hce/
   # # - skip: true # midterm
   # - slug: "17"
   #   readings:
