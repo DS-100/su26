@@ -65,6 +65,7 @@ lectures:
     readings:
       - title: Note 11
         link: https://ds100.org/course-notes/ols/
+  - skip: true
   - slug: "12"
     readings:
       - title: Note 12
@@ -77,7 +78,6 @@ lectures:
     readings:
       - title: Note 14
         link: https://ds100.org/course-notes/cv-reg/
-  - skip: true
   # - slug: "16"
   #   readings:
   #     - title: Note 16
