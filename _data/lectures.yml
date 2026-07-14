@@ -68,20 +68,22 @@ lectures:
         link: https://ds100.org/course-notes/ols/
   - slug: "12"
     readings:
-      - title: Note 12
+      - title: Note 12A
+        link: https://ds100.org/course-notes/ols/
+      - title: Note 12B
         link: https://ds100.org/course-notes/gradient-descent/ 
   - slug: "13"
     readings:
       - title: Note 13
-        link: https://ds100.org/course-notes/feature-engineering/
+        link: https://ds100.org/course-notes/gradient-descent/ 
   - slug: "14"
     readings:
       - title: Note 14
-        link: https://ds100.org/course-notes/cv-reg/
+        link: https://ds100.org/course-notes/case-study-hce/
   - slug: "15"
     readings:
       - title: Note 15
-        link: https://ds100.org/course-notes/case-study-hce/
+        link: https://ds100.org/course-notes/cv-reg/ 
   # # - skip: true # midterm
   # - slug: "17"
   #   readings:
