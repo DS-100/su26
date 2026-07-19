@@ -84,11 +84,13 @@ lectures:
     readings:
       - title: Note 15
         link: https://ds100.org/course-notes/feature-engineering/ 
-  # # - skip: true # midterm
-  # - slug: "17"
-  #   readings:
-  #     - title: Note 17
-  #       link: https://ds100.org/course-notes/cv-reg/
+  - skip: true 
+  - slug: "16"
+    readings:
+      - title: Note 16A
+        link: https://ds100.org/course-notes/cv-reg/
+      - title: Note 16B
+        link: https://ds100.org/course-notes/probability-1/
   # - slug: "18"
   #   readings:
   #     - title: Note 18
