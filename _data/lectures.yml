@@ -90,15 +90,15 @@ lectures:
         link: https://ds100.org/course-notes/cv-reg/
       - title: Note 16B
         link: https://ds100.org/course-notes/probability-1/ 
-  - skip: true 
-  # - slug: "18"
-  #   readings:
-  #     - title: Note 18
-  #       link: https://ds100.org/course-notes/probability-1/ 
-  # - slug: "19"
-  #   readings:
-  #     - title: Note 19
-  #       link: https://ds100.org/course-notes/probability-2/
+  # - skip: true 
+  - slug: "17"
+    readings:
+      - title: Note 17
+        link: https://ds100.org/course-notes/probability-1/ 
+  - slug: "18"
+    readings:
+      - title: Note 18
+        link: https://ds100.org/course-notes/probability-2/
   # - slug: "20"
   #   readings:
   #     - title: Note 20
