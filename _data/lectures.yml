@@ -99,10 +99,10 @@ lectures:
     readings:
       - title: Note 18
         link: https://ds100.org/course-notes/inference-causality/
-  # - slug: "20"
-  #   readings:
-  #     - title: Note 20
-  #       link: https://ds100.org/course-notes/inference-causality/
+  - slug: "19"
+    readings:
+      - title: Note 19
+        link: https://ds100.org/course-notes/logistic-reg-1/
   # - slug: "21"
   #   readings:
   #     - title: Note 21
