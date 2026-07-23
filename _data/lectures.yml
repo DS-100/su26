@@ -103,10 +103,10 @@ lectures:
     readings:
       - title: Note 19
         link: https://ds100.org/course-notes/logistic-reg-1/
-  # - slug: "21"
-  #   readings:
-  #     - title: Note 21
-  #       link: https://ds100.org/course-notes/sql-i/
+  - slug: "20"
+    readings:
+      - title: Note 20
+        link: https://ds100.org/course-notes/logistic-reg-2/
   # - slug: "22"
   #   readings:
   #     - title: Note 22
