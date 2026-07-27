@@ -111,10 +111,10 @@ lectures:
     readings:
       - title: Note 21
         link: https://ds100.org/course-notes/pca/
-  # - slug: "23"
-  #   readings:
-  #     - title: Note 23
-  #       link: https://ds100.org/course-notes/logistic-reg-1/
+  - slug: "22"
+    readings:
+      - title: Note 22
+        link: https://ds100.org/course-notes/pca/
   # - slug: "24"
   #   readings:
   #     - title: Note 24
