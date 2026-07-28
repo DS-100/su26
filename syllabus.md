@@ -271,7 +271,7 @@ Working through challenging problems is a key step in learning. If you have an a
 
 {: .important }
 
-**Use of AI-assisted methods and large language models (LLMs), such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited. LLMs are only permitted for productive uses, which we define below.**
+**Use of AI-assisted methods and large language models (LLMs), such as ChatGPT, to generate written or code solutions to assignments is prohibited unless explicitly specified on a per-question basis. Usage of past assignment solutions is also prohibited. LLMs are only permitted for productive uses, which we define below.**
 
 Copying or closely paraphrasing any text directly from a homework or lab problem into a large language model (LLM) is considered cheating in Data 100. Furthermore, engaging in this behavior is detrimental to your learning. You should break problems into steps and ask for help with each step in your own words. If you copy problems directly into ChatGPT, **you're not learning data science**. You're learning how to ask someone else to do sloppy and unreliable data science on your behalf.
 
@@ -284,7 +284,7 @@ However, we also know that AI assistants will be a key part of your future, and 
 
 <!-- When a grader identifies a suspected inappropriate use of an LLM, it is documented for later review. Instructors do not address these cases until the end of the semester. In other words, if you inappropriately use an LLM, but the course staff does not contact you about your LLM use shortly after your grade on the assignment is released, you are not "in the clear".  -->
 
-**If you are unsure whether your use of LLMs is appropriate, contact the course staff.**
+**You may be asked to use LLMs to implement or write code as part of an assignment. If you are ever unsure whether your use of LLMs is appropriate, Ed is the best place to ask course staff.**
 
 **Exams:** Cheating on exams is a serious offense. We have methods of detecting cheating on exams – so don’t do it! Students caught cheating on any exam will fail the course.
 
