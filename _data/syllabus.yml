@@ -71,6 +71,30 @@ extra_links_col3:
     label: homework-released
     label-number: 5
     link: https://drive.google.com/file/d/1TQdBRIGUwkOJB6BWepBP8KkO0tbdHZ2o/view?usp=sharing
+  - date: 2026-07-29
+    title: "Part 1: Probability"
+    label: homework-released
+    label-number: 6
+    link: https://drive.google.com/file/d/1VvWjJ5FAoHL36Yl9godFIPdqUoubsT7M/view?usp=sharing
+  - date: 2026-07-31
+    title: "Part 1: Probability"
+    label: homework-due
+    label-number: 6
+    link: https://drive.google.com/file/d/1VvWjJ5FAoHL36Yl9godFIPdqUoubsT7M/view?usp=sharing
+  - date: 2026-07-29
+    title: "Part 2: Coding"
+    label: homework-released
+    label-number: 6
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw06%2Fhw06.ipynb
+  - date: 2026-07-31
+    title: "Part 2: Coding"
+    label: homework-due
+    label-number: 6
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fhw%2Fhw06%2Fhw06.ipynb
+  
+
+
+
 
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
