@@ -26,6 +26,14 @@ extra_days_col2:
     title: "Midterm 2 [Day 2]"
     label: exam
     # link: #
+  - date: 2026-08-05
+    title: "Midterm 3 [Day 1]"
+    label: exam
+    # link: #
+  - date: 2026-08-06
+    title: "Midterm 3 [Day 2]"
+    label: exam
+    # link: #
 
 
 # The dates used in extra_links_col3 below must already be included on the calendar 
