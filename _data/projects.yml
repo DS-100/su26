@@ -16,7 +16,7 @@ projects:
     date: 2026-07-29
     label-number: B1
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu26-student&branch=main&urlpath=lab%2Ftree%2Fsu26-student%2Fproj%2Fprojb1%2FprojB1.ipynb
-  # - title: "Spam & Ham II"
-  #   date: 2026-04-23
-  #   label-number: B2
-  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojB2%2FprojB2.ipynb
+  - title: "Spam & Ham II"
+    date: 2026-08-04
+    label-number: B2
+    link: 

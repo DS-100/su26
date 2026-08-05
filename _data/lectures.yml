@@ -120,10 +120,10 @@ lectures:
     readings:
       - title: Note 23
         link: https://ds100.org/course-notes/clustering/
-  - slug: "24"
-    readings:
-      - title: Note 24
-        link: 
+  # - slug: "24"
+  #   readings:
+  #     - title: Note 24
+  #       link: 
   # - slug: "26"
   #   readings:
   #     - title: Note 26
