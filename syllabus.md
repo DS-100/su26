@@ -127,6 +127,7 @@ There are four exams in this course:
 > - **Computer-Based Midterm 2** ON **Wed, July 29** OR **Thu, July 30** (You will sign up for a 1-hour slot)
 > - **Computer-Based Midterm 3** ON **Wed, August 5** OR **Thu, August 6** (You will sign up for a 1-hour slot)
 > - **Two-Part Paper-Based Final** ON **Wed, August 12** AND **Thu, August 13** STARTING AT **11:00am**
+>> - If you are in the online section of Data 100, then your final exam will be held on the evening (PDT) of **Thu, August 13th**.
 
 #### Midterm Schedule
 
@@ -147,6 +148,8 @@ The final exam will be spread across two days. You must attend both days to comp
 
 - Day 1: **Wednesday 8/12 11:00am-12:30pm**
 - Day 2: **Thursday 8/13 11:00am-12:30pm**
+
+Students approved for online exams, will take their final on the evening (PDT) of **Thursday, 8/13**.
 
 **Data 100 does not allow lecture time conflicts or final exam conflicts.**
 
